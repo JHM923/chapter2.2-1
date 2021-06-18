@@ -1,0 +1,13 @@
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.csprojAssemblyReference.cache
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.AssemblyInfoInputs.cache
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.AssemblyInfo.cs
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.csproj.CoreCompileInputs.cache
+C:\wdnmd\wdnmd\bin\Debug\netcoreapp3.1\wdnmd.exe
+C:\wdnmd\wdnmd\bin\Debug\netcoreapp3.1\wdnmd.deps.json
+C:\wdnmd\wdnmd\bin\Debug\netcoreapp3.1\wdnmd.runtimeconfig.json
+C:\wdnmd\wdnmd\bin\Debug\netcoreapp3.1\wdnmd.runtimeconfig.dev.json
+C:\wdnmd\wdnmd\bin\Debug\netcoreapp3.1\wdnmd.dll
+C:\wdnmd\wdnmd\bin\Debug\netcoreapp3.1\wdnmd.pdb
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.dll
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.pdb
+C:\wdnmd\wdnmd\obj\Debug\netcoreapp3.1\wdnmd.genruntimeconfig.cache
